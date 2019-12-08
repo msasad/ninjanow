@@ -1,0 +1,428 @@
+[
+    {
+        "month" : "2019-10",
+        "places" : [
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 2
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 4,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 5
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 2,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 1
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 2,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 3
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 4,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 5
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 4,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "month" : "2019-09",
+        "places" : [
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 5,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 5
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 7
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 6
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 8
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 7
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 10
+            }
+        ]
+    },
+    {
+        "month" : "2019-08",
+        "places" : [
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 8
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 6
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 5
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 6
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 7
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 6
+            }
+        ]
+    },
+    {
+        "month" : "2019-07",
+        "places" : [
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 6
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 10
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 5
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 6
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 3
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 4
+            }
+        ]
+    },
+    {
+        "month" : "2019-06",
+        "places" : [
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 2
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 7
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 20
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 10
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 10
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 8
+            }
+        ]
+    },
+    {
+        "month" : "2019-05",
+        "places" : [
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 13
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 1
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 4
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 14
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 6
+            },
+            {
+                "id" : "8523ebd52c57e33e77a7aa583de40176829141c5",
+                "name" : "ABC Absolutely Broasted Chicken",
+                "place_id" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "price_level" : 3,
+                "rating" : 3.4,
+                "reference" : "ChIJNxXC6eaWyzsRMX6RL3Cv9mQ",
+                "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+                "user_ratings_total" : 756,
+                "count": 9
+            }
+        ]
+    }
+]

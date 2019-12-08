@@ -26,6 +26,14 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+design
+locations.json
+locations.py
+locations_score.py
+places_response.json
+process
+readme.txt
+response.json
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
